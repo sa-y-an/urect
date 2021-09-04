@@ -9,5 +9,4 @@
 ```
 
 
-> PS: I have taken help from the internet to design it and claim no IP Rights. <br/>
-> Note - Please wait for 10s after clicking on simulate.
+> Just the simulink model is present in simulink model folder
